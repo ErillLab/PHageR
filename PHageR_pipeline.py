@@ -30,7 +30,7 @@ from tf import TF
 from mge_tf import MGE_TF
 
 
-config_filename = 'mge_tf_pipeline_config.json'
+config_filename = 'PHageR_pipeline_config.json'
 
 
 def read_config_file(filename):
