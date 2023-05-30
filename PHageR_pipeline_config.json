@@ -1,0 +1,26 @@
+{
+	
+	"mge_dirname": "",
+	
+	"tf_dirname": "",
+	
+	"out_dirname": "",
+	
+	"mge": {
+    	"n_pseudogenomes": 4,
+    	"kmer_len": 4,
+    	"n_positional_bins": 50,
+    	"ripley_d_value": 200,
+    	"neighbor_degree": 2,
+    	"save_pseudogenomes": false,
+    	"save_all_pssm_scores_of_original_genome": false
+	},
+	
+	"tf": {
+    	"motifs_file_format": "fasta",
+    	"n_permuted_motifs": 0,
+    	"pseudocount": 0.5,
+    	"n_fake_instances": 100
+	}
+}
+
